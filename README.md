@@ -67,3 +67,6 @@ Primary: Accuracy
 Secondary: Precision/Recall/F1-score
 Confusion matrix analysis
 ```
+
+## Author
+Ashish Khatode
